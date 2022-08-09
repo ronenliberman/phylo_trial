@@ -1,0 +1,610 @@
+IQ-TREE multicore version 2.1.4-beta COVID-edition for Linux 64-bit built Jun 24 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    sequana (AVX2, FMA3, 944 GB RAM)
+Command: iqtree -s all.psba.no27.wc3gulf.aligned.fasta -B 1000 -m TVMe+R4
+Seed:    50692 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Jul 21 10:31:23 2022
+Kernel:  AVX+FMA - 1 threads (256 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 256 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file all.psba.no27.wc3gulf.aligned.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 369 sequences with 1857 columns, 1001 distinct patterns
+518 parsimony-informative, 153 singleton sites, 1186 constant sites
+            Gap/Ambiguity  Composition  p-value
+   1  JQ043599.1   67.74%    passed     96.11%
+   2  JQ043600.1   67.74%    passed     98.28%
+   3  JQ043601.1   70.65%    passed     98.17%
+   4  JQ043602.1   67.74%    passed     95.13%
+   5  JQ043603.1   67.85%    passed     98.29%
+   6  JQ043604.1   67.80%    passed     95.72%
+   7  JQ043605.1   67.74%    passed     97.34%
+   8  JQ043612.1   67.74%    passed     98.53%
+   9  JQ043613.1   68.71%    passed     93.79%
+  10  JQ043627.1   68.50%    passed     87.36%
+  11  JQ043628.1   68.55%    passed     87.63%
+  12  JQ043629.1   73.07%    passed     66.32%
+  13  JQ043630.1   73.13%    passed     77.07%
+  14  JQ043631.1   72.97%    passed     70.88%
+  15  JQ043634.1   68.98%    passed     69.59%
+  16  JQ043635.1   69.25%    passed     53.87%
+  17  JQ043636.1   69.20%    passed     51.97%
+  18  JQ043637.1   69.20%    passed     52.42%
+  19  JQ043638.1   69.09%    passed     50.31%
+  20  JQ043639.1   68.98%    passed     77.91%
+  21  JQ043640.1   69.20%    passed     69.54%
+  22  JQ043641.1   68.98%    passed     70.13%
+  23  JQ043642.1   67.91%    passed     84.03%
+  24  JQ043643.1   68.12%    passed     84.24%
+  25  JQ043644.1   69.20%    passed     76.16%
+  26  JQ043645.1   68.17%    passed     85.09%
+  27  JQ043646.1   69.20%    passed     64.10%
+  28  JQ043647.1   71.30%    passed     82.77%
+  29  JQ043648.1   71.51%    passed     75.07%
+  30  JQ043667.1   76.09%    passed     87.67%
+  31  JQ043668.1   74.74%    passed     85.31%
+  32  JQ043669.1   71.03%    passed     74.10%
+  33  JQ043670.1   69.95%    passed     90.69%
+  34  JQ043671.1   72.75%    passed     96.85%
+  35  JQ043672.1   69.47%    passed     86.09%
+  36  JQ043673.1   69.90%    passed     95.09%
+  37  JQ043674.1   70.76%    passed     68.93%
+  38  JQ043676.1   77.44%    passed     88.90%
+  39  KF572153.1   72.16%    passed     31.99%
+  40  KF572154.1   72.16%    passed     31.99%
+  41  KF572155.1   71.67%    passed     71.46%
+  42  KF572156.1   64.57%    passed     57.92%
+  43  KF572157.1   63.44%    passed     64.07%
+  44  KF572158.1   63.87%    passed     56.29%
+  45  KF572159.1   64.46%    passed     57.10%
+  46  KF572160.1   66.02%    passed     43.06%
+  47  KF572161.1   64.46%    passed     60.73%
+  48  KF572162.1   64.46%    passed     57.65%
+  49  KF572163.1   63.54%    passed     61.24%
+  50  KF572164.1   63.44%    passed     60.09%
+  51  KF572165.1   64.30%    passed     56.87%
+  52  KF572166.1   64.51%    passed     57.88%
+  53  KF572167.1   64.46%    passed     53.92%
+  54  KF572168.1   62.68%    passed     46.89%
+  55  KF572169.1   66.18%    passed     59.87%
+  56  KF572170.1   64.67%    passed     51.11%
+  57  KF572171.1   71.35%    passed     22.90%
+  58  KF572172.1   63.92%    passed     56.91%
+  59  KF572173.1   64.08%    passed     60.66%
+  60  KF572174.1   69.25%    passed     32.67%
+  61  KF572175.1   67.15%    passed     59.49%
+  62  KF572176.1   67.15%    passed     59.49%
+  63  KF572177.1   67.15%    passed     59.49%
+  64  KF572178.1   66.88%    passed     54.33%
+  65  KF572179.1   66.07%    passed     73.87%
+  66  KF572180.1   67.21%    passed     58.86%
+  67  KF572181.1   65.70%    passed     71.29%
+  68  KF572182.1   75.39%    passed     75.00%
+  69  KF572183.1   76.41%    passed     59.94%
+  70  KF572184.1   80.24%    passed     69.80%
+  71  KF572185.1   65.21%    passed     66.55%
+  72  KF572186.1   65.11%    passed     62.17%
+  73  KF572187.1   65.16%    passed     66.46%
+  74  KF572188.1   77.28%    passed     17.17%
+  75  KF572189.1   63.44%    passed     14.08%
+  76  KF572190.1   63.33%    passed     15.96%
+  77  KF572191.1   62.47%    passed     25.30%
+  78  KF572192.1   63.70%    passed     13.66%
+  79  KF572193.1   67.42%    passed     25.47%
+  80  KF572194.1   62.41%    passed     21.93%
+  81  KF572195.1   60.80%    passed     14.75%
+  82  KF572196.1   59.83%    passed     15.31%
+  83  KF572197.1   60.64%    passed     10.36%
+  84  KF572198.1   60.74%    passed      9.80%
+  85  KF572199.1   62.52%    passed     12.35%
+  86  KF572200.1   58.32%    passed     13.76%
+  87  KF572201.1   58.32%    passed     13.76%
+  88  KF572202.1   58.32%    passed     13.76%
+  89  KF572203.1   62.20%    passed      8.11%
+  90  KF572204.1   58.48%    passed     17.66%
+  91  KF572205.1   67.80%    passed     20.70%
+  92  KF572206.1   59.50%    passed      6.43%
+  93  KF572207.1   66.51%    passed     28.97%
+  94  KF572208.1   67.64%    passed     18.37%
+  95  KF572209.1   66.67%    passed     33.50%
+  96  KF572210.1   67.58%    passed     14.34%
+  97  KF572211.1   66.61%    passed     57.39%
+  98  KF572212.1   66.61%    passed     57.39%
+  99  KF572213.1   62.25%    passed     10.49%
+ 100  KF572214.1   62.25%    passed     10.49%
+ 101  KF572215.1   63.17%    failed      4.99%
+ 102  KF572216.1   63.11%    passed      5.17%
+ 103  KF572217.1   66.07%    passed     11.72%
+ 104  KF572218.1   62.52%    passed      7.94%
+ 105  KF572219.1   62.95%    passed      7.87%
+ 106  KF572220.1   62.41%    passed      7.33%
+ 107  KF572221.1   66.07%    passed     20.55%
+ 108  KF572222.1   74.91%    passed     98.20%
+ 109  KF572223.1   74.85%    passed     89.71%
+ 110  KF572224.1   75.88%    passed     75.12%
+ 111  KF572225.1   74.85%    passed     93.40%
+ 112  KF572226.1   74.80%    passed     84.56%
+ 113  KF572227.1   74.74%    passed     98.55%
+ 114  KF572228.1   74.96%    passed     89.71%
+ 115  KF572229.1   74.80%    passed     83.50%
+ 116  KF572230.1   74.74%    passed     91.96%
+ 117  KF572231.1   74.64%    passed     89.82%
+ 118  KF572232.1   76.04%    passed     56.97%
+ 119  KF572233.1   75.98%    passed     61.92%
+ 120  KF572234.1   75.98%    passed     61.92%
+ 121  KF572235.1   75.12%    passed     87.68%
+ 122  KF572236.1   74.96%    passed     88.99%
+ 123  KF572237.1   75.44%    passed     82.92%
+ 124  KF572238.1   75.44%    passed     82.92%
+ 125  KF572239.1   75.50%    passed     85.45%
+ 126  KF572241.1   77.28%    passed     58.06%
+ 127  KF572242.1   77.38%    passed     77.24%
+ 128  KF572243.1   77.28%    passed     67.71%
+ 129  KF572244.1   77.22%    passed     62.78%
+ 130  KF572245.1   77.22%    passed     62.78%
+ 131  KF572246.1   75.93%    passed     88.14%
+ 132  KF572247.1   79.00%    passed     99.02%
+ 133  KF572248.1   75.39%    passed     92.53%
+ 134  KF572249.1   74.80%    passed     94.97%
+ 135  KF572250.1   75.77%    passed     84.88%
+ 136  KF572251.1   75.82%    passed     83.52%
+ 137  KF572252.1   75.82%    passed     78.04%
+ 138  KF572253.1   75.88%    passed     76.37%
+ 139  KF572254.1   76.04%    passed     96.65%
+ 140  KF572255.1   76.31%    passed     97.91%
+ 141  KF572256.1   76.31%    passed     97.91%
+ 142  KF572257.1   76.31%    passed     97.91%
+ 143  KF572258.1   76.31%    passed     97.70%
+ 144  KF572259.1   76.25%    passed     98.30%
+ 145  KF572260.1   76.25%    passed     98.30%
+ 146  KF572261.1   77.28%    passed     88.63%
+ 147  KF572262.1   77.17%    passed     92.88%
+ 148  KF572263.1   77.17%    passed     92.88%
+ 149  KF572264.1   77.17%    passed     92.88%
+ 150  KF572265.1   77.22%    passed     87.99%
+ 151  KF572266.1   77.22%    passed     86.54%
+ 152  KF572267.1   79.32%    passed     90.28%
+ 153  KF572268.1   76.14%    passed     97.49%
+ 154  KF572269.1   78.84%    passed     99.12%
+ 155  KF572270.1   78.84%    passed     99.12%
+ 156  KF572271.1   78.84%    passed     99.12%
+ 157  KF572272.1   80.94%    passed     34.45%
+ 158  KF572273.1   80.94%    passed     34.45%
+ 159  KF572274.1   80.94%    passed     31.90%
+ 160  KF572275.1   80.94%    passed     31.90%
+ 161  KF572277.1   79.43%    passed     33.16%
+ 162  KF572278.1   74.69%    passed     93.31%
+ 163  KF572279.1   73.77%    passed     89.63%
+ 164  KF572280.1   73.77%    passed     89.63%
+ 165  KF572281.1   77.81%    passed     64.39%
+ 166  KF572282.1   73.99%    passed     89.17%
+ 167  KF572284.1   73.83%    passed     96.43%
+ 168  KF572285.1   77.11%    passed     47.04%
+ 169  KF572286.1   73.94%    passed     85.05%
+ 170  KF572287.1   73.94%    passed     84.35%
+ 171  KF572288.1   83.31%    passed     95.91%
+ 172  KF572289.1   78.35%    passed     59.93%
+ 173  KF572290.1   79.21%    passed     96.01%
+ 174  KF572291.1   79.21%    passed     91.73%
+ 175  KF572292.1   78.14%    passed     45.76%
+ 176  KF572293.1   75.71%    passed     60.74%
+ 177  KF572294.1   77.44%    passed     54.97%
+ 178  KF572295.1   77.44%    passed     54.97%
+ 179  KF572296.1   73.94%    passed     93.55%
+ 180  KF572297.1   73.94%    passed     93.55%
+ 181  KF572298.1   77.87%    passed     83.99%
+ 182  KF572299.1   73.72%    passed     89.22%
+ 183  KF572300.1   73.83%    passed     77.92%
+ 184  KF572301.1   79.00%    passed     48.92%
+ 185  KF572302.1   75.39%    passed     85.11%
+ 186  KF572303.1   78.03%    passed     69.04%
+ 187  KF572304.1   78.51%    passed     73.12%
+ 188  KF572305.1   78.51%    passed     73.12%
+ 189  KF572306.1   77.98%    passed     72.56%
+ 190  KF572307.1   78.03%    passed     76.70%
+ 191  KF572308.1   77.60%    passed     76.02%
+ 192  KF572309.1   74.69%    passed     94.16%
+ 193  KF572310.1   75.01%    passed     91.88%
+ 194  KF572313.1   74.80%    passed     89.66%
+ 195  KF572314.1   71.19%    passed     87.74%
+ 196  KF572315.1   74.91%    passed     71.15%
+ 197  KF572316.1   72.97%    passed     95.45%
+ 198  KF572317.1   80.40%    passed     30.56%
+ 199  KF572318.1   80.40%    passed     30.56%
+ 200  KF572319.1   80.40%    passed     30.56%
+ 201  KF572320.1   72.00%    passed     97.52%
+ 202  KF572321.1   75.28%    passed     76.60%
+ 203  KF572322.1   78.14%    passed     62.49%
+ 204  KF572323.1   75.98%    passed     87.03%
+ 205  KF572324.1   75.98%    passed     87.03%
+ 206  KF572325.1   74.91%    passed     77.77%
+ 207  KF572326.1   74.91%    passed     77.77%
+ 208  KF572327.1   75.98%    passed     88.58%
+ 209  KF572328.1   72.00%    passed     99.65%
+ 210  KF572329.1   72.00%    passed     99.65%
+ 211  KF572330.1   72.00%    passed     99.65%
+ 212  KF572331.1   73.24%    passed     68.88%
+ 213  KF572332.1   77.22%    passed     58.99%
+ 214  KF572333.1   68.50%    passed     38.97%
+ 215  KF572334.1   68.50%    passed     44.90%
+ 216  KF572335.1   68.44%    passed     37.96%
+ 217  KF572336.1   78.14%    passed     55.73%
+ 218  KF572337.1   77.22%    passed     45.83%
+ 219  KF572338.1   78.03%    passed     48.61%
+ 220  KF572339.1   78.19%    passed     51.13%
+ 221  KF572340.1   78.30%    passed     61.14%
+ 222  KF572341.1   81.37%    passed     20.44%
+ 223  KF572342.1   74.10%    passed     36.21%
+ 224  KF572343.1   74.91%    passed     23.58%
+ 225  KF572344.1   76.63%    passed     55.89%
+ 226  KF572345.1   76.58%    passed     72.30%
+ 227  KF572346.1   76.58%    passed     72.30%
+ 228  KF572347.1   76.58%    passed     72.30%
+ 229  KF572348.1   79.21%    passed     72.24%
+ 230  KF572349.1   79.21%    passed     72.24%
+ 231  KF572350.1   80.24%    passed     75.19%
+ 232  KF572351.1   79.27%    passed     78.53%
+ 233  KF572352.1   80.24%    passed     59.21%
+ 234  KF572353.1   76.63%    passed     59.90%
+ 235  KF572354.1   77.49%    passed     90.91%
+ 236  KF572355.1   77.49%    passed     74.23%
+ 237  KF572356.1   75.55%    passed     76.07%
+ 238  KF572357.1   74.15%    passed     69.35%
+ 239  KF572358.1   73.83%    passed     74.17%
+ 240  KF572359.1   73.88%    passed     82.98%
+ 241  KF572360.1   75.07%    passed     77.70%
+ 242  KF572361.1   73.99%    passed     72.94%
+ 243  KF572362.1   73.83%    passed     81.90%
+ 244  KF572363.1   74.15%    passed     62.26%
+ 245  KF572364.1   74.91%    passed     84.91%
+ 246  KF572365.1   74.96%    passed     73.25%
+ 247  KF572366.1   73.83%    passed     81.33%
+ 248  KF572367.1   73.88%    passed     74.73%
+ 249  KF572368.1   73.94%    passed     78.81%
+ 250  KF572369.1   75.07%    passed     85.35%
+ 251  KF572370.1   73.94%    passed     86.21%
+ 252  KF572371.1   76.58%    passed     66.70%
+ 253  KF572372.1   74.10%    passed     64.01%
+ 254  KF572373.1   74.37%    passed     69.41%
+ 255  KF572374.1   74.42%    passed     71.28%
+ 256  KF572375.1   75.77%    passed     93.43%
+ 257  KF572376.1   75.77%    passed     93.43%
+ 258  KF572377.1   75.82%    passed     93.95%
+ 259  KF572378.1   83.04%    passed     87.63%
+ 260  KF572379.1   77.17%    passed     54.45%
+ 261  KF572380.1   81.15%    passed     80.77%
+ 262  KF572381.1   81.15%    passed     80.77%
+ 263  KF572382.1   81.15%    passed     80.77%
+ 264  KF572383.1   80.24%    passed     72.73%
+ 265  KF572384.1   81.15%    passed     80.77%
+ 266  KF572385.1   77.49%    passed     68.88%
+ 267  KF572386.1   81.04%    passed     69.26%
+ 268  KF572387.1   80.24%    passed     87.48%
+ 269  KF572388.1   81.04%    passed     69.26%
+ 270  KF572389.1   80.02%    passed     66.38%
+ 271  KF572390.1   77.65%    passed     48.02%
+ 272  KF572391.1   77.65%    passed     48.02%
+ 273  KF572392.1   78.19%    passed     69.33%
+ 274  KF572393.1   78.51%    passed     50.03%
+ 275  KF572394.1   78.57%    passed     69.29%
+ 276  KF572395.1   78.51%    passed     94.51%
+ 277  KF572396.1   81.37%    passed     79.12%
+ 278  KF572397.1   78.51%    passed     65.47%
+ 279  KF572398.1   81.37%    passed     57.54%
+ 280  KF572399.1   80.29%    passed     80.04%
+ 281  KF572400.1   80.29%    passed     71.06%
+ 282  KF572401.1   80.29%    passed     67.07%
+ 283  KF572402.1   80.34%    passed     31.08%
+ 284  KF572403.1   80.29%    passed     29.04%
+ 285  KF572404.1   80.18%    passed     70.39%
+ 286  KF572405.1   80.02%    passed     73.18%
+ 287  KF572406.1   80.02%    passed     58.04%
+ 288  KF572407.1   80.02%    passed     50.58%
+ 289  KF572408.1   77.06%    passed     90.41%
+ 290  KF572409.1   78.14%    passed     81.67%
+ 291  KF572410.1   79.32%    passed     88.98%
+ 292  KF572411.1   76.14%    passed     89.32%
+ 293  KF572412.1   79.59%    passed     76.88%
+ 294  KF572413.1   75.23%    passed     94.33%
+ 295  KF572414.1   75.61%    passed     94.89%
+ 296  KF572415.1   77.76%    passed     56.74%
+ 297  KF572416.1   76.68%    passed     51.72%
+ 298  KF572417.1   77.76%    passed     56.74%
+ 299  KF572418.1   77.76%    passed     56.74%
+ 300  KF572419.1   76.52%    passed     98.39%
+ 301  KF572420.1   76.52%    passed     96.62%
+ 302  KF572421.1   76.52%    passed     90.60%
+ 303  KF572422.1   76.52%    passed     89.35%
+ 304  KF572423.1   76.95%    passed     95.21%
+ 305  KF572424.1   78.19%    passed     70.36%
+ 306  4_clean      44.64%    failed      0.50%
+ 307  12.1_clean   83.04%    passed     75.61%
+ 308  12.2_clean   43.40%    failed      0.21%
+ 309  15.1_clean   80.13%    passed     84.95%
+ 310  15.2_clean   76.95%    passed     93.45%
+ 311  15.3_clean   49.49%    passed      8.04%
+ 312  16.1_clean   87.24%    passed      7.81%
+ 313  16.2_clean   43.62%    failed      0.24%
+ 314  18.2_clean   47.60%    failed      3.78%
+ 315  21_clean     45.34%    failed      0.85%
+ 316  22_clean     47.50%    failed      4.66%
+ 317  23_clean     76.58%    failed      0.00%
+ 318  24.1_clean   77.49%    passed     97.59%
+ 319  24.2_clean   44.10%    failed      0.22%
+ 320  25.1_clean   92.41%    passed     56.79%
+ 321  25.2_clean   48.14%    failed      2.65%
+ 322  26_clean     67.91%    failed      0.09%
+ 323  28_clean     43.73%    failed      0.31%
+ 324  29_clean     47.39%    failed      4.92%
+ 325  30_clean     47.01%    passed      5.07%
+ 326  32_clean     46.10%    failed      1.58%
+ 327  33.2_clean   45.50%    failed      0.70%
+ 328  34_clean     44.91%    failed      0.52%
+ 329  35_clean     45.23%    failed      0.70%
+ 330  36_clean     48.47%    failed      2.81%
+ 331  37_clean     48.47%    failed      1.50%
+ 332  38_clean     47.87%    passed      5.47%
+ 333  39.1_clean   47.98%    passed      5.69%
+ 334  40_clean     47.17%    failed      2.92%
+ 335  41.2_clean   48.25%    passed      5.71%
+ 336  42_clean     86.21%    passed     96.54%
+ 337  44_clean     44.96%    failed      0.60%
+ 338  45.2_clean   45.45%    failed      0.89%
+ 339  46.1_clean   66.83%    passed      8.33%
+ 340  46.2_clean   95.37%    passed     92.04%
+ 341  47.1_clean   95.42%    passed     85.56%
+ 342  47.2_clean   45.56%    failed      0.73%
+ 343  48_clean     46.04%    failed      1.36%
+ 344  49_clean     88.75%    passed     50.22%
+ 345  51_clean     46.74%    failed      1.35%
+ 346  52_clean     45.56%    failed      0.94%
+ 347  54_clean     92.46%    passed     14.21%
+ 348  BH1411       75.77%    passed     56.76%
+ 349  BH1413       75.50%    passed     58.60%
+ 350  BH1414       75.55%    passed     58.19%
+ 351  BH1415       75.66%    passed     66.56%
+ 352  BH1417       75.77%    passed     91.51%
+ 353  BH1419       75.88%    passed     92.88%
+ 354  BH1422       75.71%    passed     84.17%
+ 355  BH1423       75.77%    passed     86.94%
+ 356  BH1424       75.44%    passed     75.22%
+ 357  BH1425       75.88%    passed     81.16%
+ 358  BH1426       75.82%    passed     84.96%
+ 359  BH1427       75.44%    passed     96.31%
+ 360  BH1428       75.44%    passed     83.90%
+ 361  BH1448       75.66%    passed     62.00%
+ 362  BH1449       75.82%    passed     90.56%
+ 363  BH1450       75.82%    passed     92.17%
+ 364  BH1451       75.71%    passed     84.17%
+ 365  BH1453       75.71%    passed     69.84%
+ 366  BH1456       75.82%    passed     87.91%
+ 367  BH1458       76.04%    passed     82.84%
+ 368  BH1356       75.77%    passed     67.34%
+ 369  BH1392       76.04%    passed     92.46%
+WARNING: 341 sequences contain more than 50% gaps/ambiguity
+****  TOTAL        71.81%  26 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: KF572154.1 is identical to KF572153.1 but kept for subsequent analysis
+NOTE: KF572176.1 is identical to KF572175.1 but kept for subsequent analysis
+NOTE: KF572201.1 is identical to KF572200.1 but kept for subsequent analysis
+NOTE: KF572214.1 is identical to KF572213.1 but kept for subsequent analysis
+NOTE: KF572234.1 is identical to KF572233.1 but kept for subsequent analysis
+NOTE: KF572238.1 is identical to KF572237.1 but kept for subsequent analysis
+NOTE: KF572245.1 is identical to KF572244.1 but kept for subsequent analysis
+NOTE: KF572256.1 is identical to KF572255.1 but kept for subsequent analysis
+NOTE: KF572260.1 is identical to KF572259.1 but kept for subsequent analysis
+NOTE: KF572263.1 is identical to KF572262.1 but kept for subsequent analysis
+NOTE: KF572270.1 is identical to KF572269.1 but kept for subsequent analysis
+NOTE: KF572273.1 is identical to KF572272.1 but kept for subsequent analysis
+NOTE: KF572275.1 is identical to KF572274.1 but kept for subsequent analysis
+NOTE: KF572280.1 is identical to KF572279.1 but kept for subsequent analysis
+NOTE: KF572295.1 is identical to KF572294.1 but kept for subsequent analysis
+NOTE: KF572297.1 is identical to KF572296.1 but kept for subsequent analysis
+NOTE: KF572305.1 is identical to KF572304.1 but kept for subsequent analysis
+NOTE: KF572318.1 is identical to KF572317.1 but kept for subsequent analysis
+NOTE: KF572324.1 is identical to KF572323.1 but kept for subsequent analysis
+NOTE: KF572326.1 is identical to KF572325.1 but kept for subsequent analysis
+NOTE: KF572329.1 is identical to KF572328.1 but kept for subsequent analysis
+NOTE: KF572346.1 is identical to KF572345.1 but kept for subsequent analysis
+NOTE: KF572349.1 is identical to KF572348.1 but kept for subsequent analysis
+NOTE: KF572376.1 is identical to KF572375.1 but kept for subsequent analysis
+NOTE: KF572381.1 is identical to KF572380.1 but kept for subsequent analysis
+NOTE: KF572388.1 is identical to KF572386.1 but kept for subsequent analysis
+NOTE: KF572391.1 is identical to KF572390.1 but kept for subsequent analysis
+NOTE: KF572417.1 is identical to KF572415.1 but kept for subsequent analysis
+NOTE: BH1451 is identical to BH1422 but kept for subsequent analysis
+NOTE: 11 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: KF572177.1 (identical to KF572175.1) is ignored but added at the end
+NOTE: KF572202.1 (identical to KF572200.1) is ignored but added at the end
+NOTE: KF572257.1 (identical to KF572255.1) is ignored but added at the end
+NOTE: KF572264.1 (identical to KF572262.1) is ignored but added at the end
+NOTE: KF572271.1 (identical to KF572269.1) is ignored but added at the end
+NOTE: KF572319.1 (identical to KF572317.1) is ignored but added at the end
+NOTE: KF572330.1 (identical to KF572328.1) is ignored but added at the end
+NOTE: KF572347.1 (identical to KF572345.1) is ignored but added at the end
+NOTE: KF572382.1 (identical to KF572380.1) is ignored but added at the end
+NOTE: KF572384.1 (identical to KF572380.1) is ignored but added at the end
+NOTE: KF572418.1 (identical to KF572415.1) is ignored but added at the end
+Alignment was printed to all.psba.no27.wc3gulf.aligned.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to all.psba.no27.wc3gulf.aligned.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.067 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 50692)...
+
+NOTE: 50 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -17299.453
+2. Current log-likelihood: -15530.000
+3. Current log-likelihood: -15423.936
+4. Current log-likelihood: -15402.317
+5. Current log-likelihood: -15395.089
+6. Current log-likelihood: -15390.238
+7. Current log-likelihood: -15387.295
+8. Current log-likelihood: -15385.725
+9. Current log-likelihood: -15384.943
+10. Current log-likelihood: -15384.194
+11. Current log-likelihood: -15383.967
+12. Current log-likelihood: -15383.815
+13. Current log-likelihood: -15383.697
+Optimal log-likelihood: -15383.544
+Rate parameters:  A-C: 0.75656  A-G: 1.37611  A-T: 1.18497  C-G: 0.37380  C-T: 1.37611  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Site proportion and rates:  (0.551,0.200) (0.316,0.920) (0.108,2.759) (0.025,11.873)
+Parameters optimization took 13 rounds (11.070 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.961571 sec (of wall-clock time) 0.960705 sec(of CPU time)
+Computing RapidNJ tree took 0.015661 sec (of wall-clock time) 0.024989 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -15869.872
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 7.744 second
+Computing log-likelihood of 98 initial trees ... 6.528 seconds
+Current best score: -15378.185
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -15131.561
+Iteration 10 / LogL: -15143.528 / Time: 0h:1m:20s
+Iteration 20 / LogL: -15182.736 / Time: 0h:2m:17s
+Finish initializing candidate tree set (20)
+Current best tree score: -15131.561 / CPU time: 124.215
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -15133.586 / Time: 0h:2m:51s (0h:6m:58s left)
+Iteration 40 / LogL: -15133.379 / Time: 0h:3m:23s (0h:5m:17s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 43: -15129.178
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 48: -15121.069
+Iteration 50 / LogL: -15128.182 / Time: 0h:4m:0s (0h:8m:1s left)
+Log-likelihood cutoff on original alignment: -15200.832
+Iteration 60 / LogL: -15149.193 / Time: 0h:4m:31s (0h:6m:45s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 67: -15118.840
+Iteration 70 / LogL: -15135.371 / Time: 0h:5m:3s (0h:7m:6s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 79: -15102.348
+Iteration 80 / LogL: -15141.984 / Time: 0h:5m:36s (0h:7m:1s left)
+Iteration 90 / LogL: -15304.675 / Time: 0h:6m:8s (0h:6m:8s left)
+Iteration 100 / LogL: -15148.462 / Time: 0h:6m:42s (0h:5m:21s left)
+Log-likelihood cutoff on original alignment: -15200.373
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.944
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -15117.532 / Time: 0h:7m:15s (0h:5m:59s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 112: -15100.186
+Iteration 120 / LogL: -15112.613 / Time: 0h:7m:52s (0h:6m:5s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 126: -15097.433
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 127: -15093.878
+Iteration 130 / LogL: -15107.555 / Time: 0h:8m:26s (0h:6m:20s left)
+Iteration 140 / LogL: -15134.423 / Time: 0h:8m:58s (0h:5m:37s left)
+Iteration 150 / LogL: -15168.025 / Time: 0h:9m:30s (0h:4m:54s left)
+Log-likelihood cutoff on original alignment: -15200.368
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 156: -15093.616
+Iteration 160 / LogL: -15097.536 / Time: 0h:10m:6s (0h:6m:5s left)
+Iteration 170 / LogL: -15180.730 / Time: 0h:10m:41s (0h:5m:26s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 176: -15088.705
+Iteration 180 / LogL: -15153.352 / Time: 0h:11m:17s (0h:6m:3s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 184: -15088.375
+Iteration 190 / LogL: -15102.267 / Time: 0h:11m:50s (0h:5m:53s left)
+Iteration 200 / LogL: -15098.013 / Time: 0h:12m:25s (0h:5m:14s left)
+Log-likelihood cutoff on original alignment: -15200.368
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.960
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 210 / LogL: -15110.927 / Time: 0h:13m:1s (0h:5m:36s left)
+Iteration 220 / LogL: -15100.626 / Time: 0h:13m:37s (0h:4m:58s left)
+Iteration 230 / LogL: -15113.386 / Time: 0h:14m:12s (0h:4m:20s left)
+Iteration 240 / LogL: -15122.343 / Time: 0h:14m:47s (0h:3m:42s left)
+Iteration 250 / LogL: -15182.637 / Time: 0h:15m:20s (0h:3m:4s left)
+Log-likelihood cutoff on original alignment: -15200.368
+Iteration 260 / LogL: -15145.179 / Time: 0h:15m:54s (0h:2m:27s left)
+Iteration 270 / LogL: -15275.006 / Time: 0h:16m:28s (0h:1m:50s left)
+Iteration 280 / LogL: -15136.620 / Time: 0h:17m:3s (0h:1m:13s left)
+Iteration 290 / LogL: -15095.723 / Time: 0h:17m:38s (0h:0m:36s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 292: -15088.237
+Iteration 300 / LogL: -15109.306 / Time: 0h:18m:15s (0h:5m:36s left)
+Log-likelihood cutoff on original alignment: -15200.368
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.988
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 309: -15087.211
+Iteration 310 / LogL: -15101.926 / Time: 0h:18m:52s (0h:6m:2s left)
+Iteration 320 / LogL: -15117.441 / Time: 0h:19m:27s (0h:5m:25s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 324: -15087.134
+Iteration 330 / LogL: -15103.201 / Time: 0h:20m:2s (0h:5m:43s left)
+Iteration 340 / LogL: -15134.184 / Time: 0h:20m:39s (0h:5m:6s left)
+Iteration 350 / LogL: -15140.304 / Time: 0h:21m:11s (0h:4m:29s left)
+Log-likelihood cutoff on original alignment: -15200.368
+Iteration 360 / LogL: -15151.001 / Time: 0h:21m:50s (0h:3m:53s left)
+Iteration 370 / LogL: -15126.623 / Time: 0h:22m:26s (0h:3m:17s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 373: -15085.171
+Iteration 380 / LogL: -15091.163 / Time: 0h:23m:3s (0h:5m:39s left)
+Iteration 390 / LogL: -15109.047 / Time: 0h:23m:39s (0h:5m:2s left)
+Iteration 400 / LogL: -15115.231 / Time: 0h:24m:14s (0h:4m:26s left)
+Log-likelihood cutoff on original alignment: -15200.368
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.992
+Iteration 410 / LogL: -15093.347 / Time: 0h:24m:50s (0h:5m:28s left)
+Iteration 420 / LogL: -15104.777 / Time: 0h:25m:28s (0h:4m:51s left)
+Iteration 430 / LogL: -15120.081 / Time: 0h:26m:4s (0h:4m:15s left)
+Iteration 440 / LogL: -15088.611 / Time: 0h:26m:38s (0h:3m:38s left)
+Iteration 450 / LogL: -15089.224 / Time: 0h:27m:14s (0h:3m:2s left)
+Log-likelihood cutoff on original alignment: -15200.368
+Iteration 460 / LogL: -15106.681 / Time: 0h:27m:51s (0h:2m:25s left)
+Iteration 470 / LogL: -15098.136 / Time: 0h:28m:26s (0h:1m:49s left)
+TREE SEARCH COMPLETED AFTER 474 ITERATIONS / Time: 0h:28m:40s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -15085.171
+Optimal log-likelihood: -15085.162
+Rate parameters:  A-C: 0.75253  A-G: 1.36438  A-T: 1.21564  C-G: 0.37126  C-T: 1.36438  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Site proportion and rates:  (0.518,0.176) (0.331,0.842) (0.126,2.552) (0.026,11.863)
+Parameters optimization took 1 rounds (0.729 sec)
+BEST SCORE FOUND : -15085.162
+Creating bootstrap support values...
+Split supports printed to NEXUS file all.psba.no27.wc3gulf.aligned.fasta.splits.nex
+Total tree length: 6.543
+
+Total number of iterations: 474
+CPU time used for tree search: 1697.106 sec (0h:28m:17s)
+Wall-clock time used for tree search: 1707.590 sec (0h:28m:27s)
+Total CPU time used: 1712.052 sec (0h:28m:32s)
+Total wall-clock time used: 1722.633 sec (0h:28m:42s)
+
+Computing bootstrap consensus tree...
+Reading input file all.psba.no27.wc3gulf.aligned.fasta.splits.nex...
+358 taxa and 4977 splits.
+Consensus tree written to all.psba.no27.wc3gulf.aligned.fasta.contree
+Reading input trees file all.psba.no27.wc3gulf.aligned.fasta.contree
+Log-likelihood of consensus tree: -15086.618
+
+Analysis results written to: 
+  IQ-TREE report:                all.psba.no27.wc3gulf.aligned.fasta.iqtree
+  Maximum-likelihood tree:       all.psba.no27.wc3gulf.aligned.fasta.treefile
+  Likelihood distances:          all.psba.no27.wc3gulf.aligned.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          all.psba.no27.wc3gulf.aligned.fasta.splits.nex
+  Consensus tree:                all.psba.no27.wc3gulf.aligned.fasta.contree
+  Screen log file:               all.psba.no27.wc3gulf.aligned.fasta.log
+
+Date and Time: Thu Jul 21 11:00:06 2022

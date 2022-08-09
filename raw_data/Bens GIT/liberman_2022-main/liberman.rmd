@@ -1,0 +1,26 @@
+
+
+```{R}
+library(ggplot2)
+library(ggtree)
+
+tree <- read.tree("/home/humebc/projects/liberman/all.psba.no27.wc3gulf.aligned.fasta.clean_names.contree")
+
+# Visualise the nodes for annotation
+p_nodes = ggtree(tree, layout="circular") + geom_text(aes(label=node), hjust=-.3, size=1)
+# node 137 is C301
+# 715 is C40
+
+p_labels = ggtree(tree, layout="circular") + geom_tiplab(size=1)
+
+
+ggtree(tree, layout="circular") + geom_cladelabel(node=137, label="C30,C31,C31c",  color="black", offset=-0.5, align=TRUE, barsize=2, horizontal=TRUE, extend=0.5) +
+geom_cladelabel(node=715, label="C40",  color="black", offset=-0.35, align=TRUE, barsize=2, horizontal=TRUE)
+
+ggsave("/home/humebc/projects/liberman/liberman.psba.tree.nodes.png", p_nodes)
+ggsave("/home/humebc/projects/liberman/liberman.psba.tree.nodes.svg", p_nodes)
+ggsave("/home/humebc/projects/liberman/liberman.psba.tree.labels.png", p_labels, dpi=600)
+ggsave("/home/humebc/projects/liberman/liberman.psba.tree.labels.svg", p_labels)
+
+
+```

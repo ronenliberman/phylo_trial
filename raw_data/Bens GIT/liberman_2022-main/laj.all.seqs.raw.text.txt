@@ -1,0 +1,308 @@
+27B_mexico_Montastraea_C7 C7 KF572268 Orbicella Orbicella faveolata Caribbean Mexico Puerto Morelos Shallow
+30B_mexico_Montastraea_C7 C7 KF572248 Orbicella Orbicella faveolata Caribbean Mexico Puerto Morelos Shallow
+A02_10_Acropora_C3 C3 JQ043639 Acropora Acropora cerealis West Pacific GBR Heron Island Shallow
+A02_105_Platygyra_C3 C3 JQ043635 Platygrya Platygra daedalea West Pacific GBR Heron Island Shallow
+A02_12_Acropora_C3 C3 JQ043634 Acropora Acropora clathroata West Pacific GBR Heron Island Shallow
+A02_136_Coralimorph_C1 C1 KF572204 Coralimorpharia Coralimorpharia sp. West Pacific GBR Heron Island Intermediate
+A02_20_Acropora_C3 C3 JQ043640 Acropora Acropora gemmifera West Pacific GBR Heron Island Intermediate
+A02_27_Acropora_C3 C3 JQ043641 Acropora Acropora microclados West Pacific GBR Heron Island Shallow
+A02_30_Acropora_C3 C3 JQ043642 Acropora Acropora nasuta West Pacific GBR Heron Island Shallow
+A02_34_Acropora_C3 C3 JQ043643 Acropora Acropora palifera West Pacific GBR Heron Island Shallow
+A02_36_Acropora_C3 C3 KF572372 Acropora Acropora polystoma West Pacific GBR Heron Island Shallow
+A02_44_Acropora_C3 C3 JQ043644 Acropora Acropora tenuis West Pacific GBR Heron Island Shallow
+A02_47_Astreopora_C1 C1 KF572203 Astreopora Astreopora myriophthalana West Pacific GBR Heron Island Shallow
+A02_63_Favia_C3 C3 JQ043636 Favia Favia stellegera West Pacific GBR Heron Island Shallow
+A02_64_Favia_C3 C3 JQ043637 Favia Favia abdita West Pacific GBR Heron Island Shallow
+A02_70_Fungia_C1 C1 KF572205 Fungia Fungia sp. West Pacific GBR Heron Island Shallow
+A02_71_Galaxea_C1 C1 KF572195 Galaxea Galaxea fascicularis West Pacific GBR Heron Island Shallow
+A02_74_Goniastrea_C3 C3 JQ043638 Goniastrea Goniastrea aspera West Pacific GBR Heron Island Shallow
+A03_11A_Turbinaria_C3h C3h JQ043628 Turbinaria Turbinaria frondens West Pacific GBR Feather Reef North Deep
+A03_127_Symphyllia_C40 C40 KF572360 Symphyllia Symphyllia radians West Pacific GBR Feather Reef North Shallow
+A03_138_Coscinarea_C1 C1 KF572190 Coscinarea Coscinarea columna West Pacific GBR Feather Reef North Shallow
+A03_198_Tridacna_C1 C1 KF572172 Tridacna Tridacna maxima West Pacific GBR Rib reef south Shallow
+A03_2_Pachyseris_C3h C3h KF572373 Pachyseris Pachyseris speciosa West Pacific GBR Feather Reef North Deep
+A03_221_Podabacia_C3h C3h JQ043630 Podabacia Podabacia crustacea West Pacific GBR Rib Reef North Deep
+A03_238_Acropora_C3K C3K JQ043648 Acropora Acropora nobilis West Pacific GBR Rib Reef North Shallow
+A03_326_Turbinaria_C40 C40 KF572357 Turbinaria Turbinaria frondens West Pacific GBR Rib Reef South Intermediate
+A03_331_Turbinaria_C40 C40 KF572361 Turbinaria Turbinaria reniformis West Pacific GBR Rib Reef South Intermediate
+A03_333_Turbinaria_C40 C40 KF572358 Turbinaria Turbinaria frondens West Pacific GBR Rib Reef South Intermediate
+A03_337_Turbinaria_C40 C40 KF572359 Turbinaria Turbinaria reniformis West Pacific GBR Rib Reef South Intermediate
+A03_379_Echinopora C3 KF572363 Echinopora Echinopora lamellosa West Pacific GBR Curacao Island Intermediate
+A03_44_Pectinia_C3h C3h JQ043631 Pectinia Pectinia paeonia West Pacific GBR Feather Reef North Deep
+A03_50_Acropora_C1 C1 KF572189 Acropora Acropora tenuis West Pacific GBR Feather Reef North Deep
+A03_52_Leptoseris_C3h C3h JQ043627 Leptoseris Leptoseris yabei West Pacific GBR Feather Reef North Deep
+A03_56_Corallomorpharia_C1 C1 KF572173 Discosoma Discosoma rhodostoma West Pacific GBR Feather Reef North Deep
+A03_6_Fungia_C3h C3h JQ043629 Fungia Fungia sp. West Pacific GBR Feather Reef North Deep
+A03_64_Fungia_C3h C3h KF572374 Fungia Fungia granulosa (?) West Pacific GBR Feather Reef North Deep
+A03_71_Pavona_C3h C3h JQ043630 Podabacia Podabacia crustacea West Pacific GBR Rib Reef North Deep
+A03_81_Acropora_C3K C3K JQ043645 Acropora Acropora humilis West Pacific GBR Feather Reef North Shallow
+A03_82_Acropora_C3K C3K JQ043646 Acropora Acropora nasuta West Pacific GBR Feather Reef North Shallow
+A03_83_Acropora_C3K C3K JQ043647 Acropora Acropora florida West Pacific GBR Feather Reef North Shallow
+A03_98_Galaxea C1 KF572194 Galaxea Galaxea fascicularis West Pacific GBR Feather Reef North Shallow
+ABA06_26_Siderastrea_C3 C3 KF572331 Siderastrea Siderastrea siderea Caribbean Bahamas Guana Cay, Abaco Shallow
+ABA06_28_Siderastrea_C3 C3 KF572332 Siderastrea Siderastrea siderea Caribbean Bahamas Guana Cay, Abaco Shallow
+B701_NNP1_Siderastrea_C3 C3 KF572319 Siderastrea Siderastrea siderea Caribbean Bahamas Lee Stocking Shallow
+B704_NNP4_Siderastrea_C3 C3 KF572318 Siderastrea Siderastrea siderea Caribbean Bahamas Lee Stocking Shallow
+B705_NNP5_Siderastrea_C3 C3 KF572317 Siderastrea Siderastrea siderea Caribbean Bahamas Lee Stocking Shallow
+Bah_428_M_faveolata_C12 C12 KF572239 Orbicella Orbicella faveolata Caribbean Bahamas Lee Stocking Deep
+Bah_441_M_franksi_C12 C12 KF572238 Orbicella Orbicella franksi Caribbean Bahamas Lee Stocking Deep
+Bah_442_M_franksi_C12 B1, C12 KF572240 Orbicella Orbicella franksi Caribbean Bahamas Lee Stocking Deep
+Bah_725_Montastraea_C12 C12 KF572237 Orbicella Orbicella franksi Caribbean Bahamas Lee Stocking Deep
+Bah01_10_Agaricia_C3 C3 KF572378 Agaricia Agaricia tenuifolia Caribbean Bahamas Lee Stocking Shallow
+Bah01_08_Agaricia_C3b C3b KF572385 Agaricia Agaricia agaricites Caribbean Bahamas Lee Stocking Shallow
+Bah02_10_C3_Leptoseris_C3 C3 KF572292 Leptoseris Leptoseries cuculata Caribbean Bahamas Lee Stocking Deep
+Bah02_43_C3_Leptoseris_C3 C3 KF572294 Leptoseris Leptoseries cuculata Caribbean Bahamas Lee Stocking Deep
+Bah02_44_C3_Leptoseris_C3 C3 KF572295 Leptoseris Leptoseries cuculata Caribbean Bahamas Lee Stocking Deep
+Bah02_62_Agaricia_C3 C3 KF572379 Agaricia Agaricia tenuifolia Caribbean Bahamas Lee Stocking Shallow
+Bah02_77_Siderastrea_C3 C3 KF572301 Siderastrea Siderastrea siderea Caribbean Bahamas Lee Stocking Shallow
+Baja04_124_Porites_panamensis C1 KF572208 Porites Porites panamensis Eastern Pacific Gulf of California La Paz Shallow
+Baja04_135_Psammocora_C1bf C1b-f KF572213 Psammocora Psammocora profundacella Eastern Pacific Gulf of California La Paz Intermediate
+Baja04_14_Porites_panamensis C1 KF572210 Porites Porites panamensis Eastern Pacific Gulf of California La Paz Shallow
+Baja04_143_Psammocora_C1bf C1b-f KF572214 Psammocora Psammocora superficialis Eastern Pacific Gulf of California La Paz Intermediate
+Baja04_30_Porites_panamensis C1 KF572209 Porites Porites panamensis Eastern Pacific Gulf of California La Paz Shallow
+Baja04_34_Porites_panamensis C1 KF572207 Porites Porites panamensis Eastern Pacific Gulf of California La Paz Shallow
+Bar05_100_Diploria_C3 C3 KF572356 Diploria Diploria strigosa Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_102_Erythropodium_C3 C3 KF572288 Erythropodium Erythropodium caribaeorum Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_104_Montastraea_C7a C7a KF572222 Orbicella Orbicella faveolata Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_113_Agaricia_C3 C3 KF572413 Agaricia Agaricia lamarcki Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_114_Leptoseris C3 KF572293 Leptoseris Leptoseris cucullata Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_119_Agaricea_C3b C3b KF572337 Agaricia Agaricia agaricites Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_133_Montastraea_C7a C7a KF572223 Orbicella Orbicella faveolata Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_134_Montastraea_C7a C7a KF572224 Orbicella Orbicella faveolata Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_135_Montastraea_C7a C7a KF572225 Orbicella Orbicella faveolata Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_45_Palythoa_C1 C1 KF572179 Palythoa Palythoa caribaeorum Caribbean Barbados Bachelors Hall Shallow
+Bar05_75_Montastraea_C7a C7a KF572226 Orbicella Orbicella franksi Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_80_Montastraea_C7a C7a KF572227 Orbicella Orbicella annularis Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_84_Palythoa_C1 C1 KF572182 Palythoa Palythoa caribaeorum Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_89_Agaricea_C3b C3b KF572336 Agaricia Agaricia agaricites Caribbean Barbados Atlantis Bank Reef Deep
+Bar05_91_Stephanocoenia_C3 C3 KF572414 Stephanocoenia Stephanocoenia intersepta Caribbean Barbados Atlantis Bank Reef Deep
+Bar07_03_Siderastrea_C3 C3 KF572303 Siderastrea Siderastrea siderea Caribbean Barbados Atlantis Bank Reef Deep
+Bar07_10_Siderastrea_C3 C3 KF572302 Siderastrea Siderastrea siderea Caribbean Barbados Atlantis Bank Reef Deep
+Bar07_130_Agaricia_Cq Cq KF572338 Agaricia Agaricia humilis Caribbean Barbados Bachelors Hall Shallow
+Bar07_131_Agaricia_Cq Cq KF572339 Agaricia Agaricia humilis Caribbean Barbados Bachelors Hall Shallow
+Bar07_132_Agaricia_Cq Cq KF572340 Agaricia Agaricia humilis Caribbean Barbados Bachelors Hall Shallow
+Bar07_133_Agaricia_Cq Cq KF572341 Agaricia Agaricia humilis Caribbean Barbados Bachelors Hall Shallow
+BAR07_20_Siderastrea_C3 C3 KF572305 Siderastrea Siderastrea siderea Caribbean Barbados Atlantis Bank Reef Deep
+Bar07_23_Siderastrea_C3 C3 KF572304 Siderastrea Siderastrea siderea Caribbean Barbados Atlantis Bank Reef Deep
+Barbados_AB27_sideratrea_C3 C3 KF572307 Siderastrea Siderastrea siderea Caribbean Barbados Atlantis Bank Reef Deep
+Barbados_AB28_Siderastrea_C3 C3 KF572306 Siderastrea Siderastrea siderea Caribbean Barbados Atlantis Bank Reef Deep
+Barbados_AT16_Porites_C80 C80 KF572188 Porites Porites astreoides Caribbean Barbados Atlantis Bank Reef Deep
+Barbados_BR16_Scolymia_C3 C3 KF572285 Scolymia Scolymia cubensis Caribbean Barbados Batt's Rock Intermediate
+Barbados_R14_Agaricea_C3b C3b KF572388 Agaricia Agaricia agaricites Caribbean Barbados Reef Balls Deep
+Barbados_RB31_Agaricea_C3b C3b KF572387 Agaricia Agaricia agaricites Caribbean Barbados Reef Balls Deep
+Barbados_RB9_Agaricea_C3b C3b KF572386 Agaricia Agaricia humilis Caribbean Barbados Reef Balls Deep
+BB07_190_C1bf C1bf KF572215 Psammocora Psammocora stelata Eastern Pacific Banderas Bay Punta Minta Shallow
+BB07_201_C1bf C1bf KF572216 Psammocora Psammocora stelata Eastern Pacific Banderas Bay Punta Minta Shallow
+BB07_240_Porites_panamensis C1v KF572212 Porites Porites panamensis Eastern Pacific Banderas Bay Pocitos Shallow
+BB07_250_Porites_panamensis C1v KF572211 Porites Porites panamensis Eastern Pacific Banderas Bay Pocitos Shallow
+Be02_110_Leptoseris_C3 C3 KF572405 Leptoseris Leptoseris cucullata Caribbean Belize Carrie Bow Deep
+Be02_111_Montastraea_C7 C7 KF572254 Orbicella Orbicella faveolata Caribbean Belize Carrie Bow Deep
+Be02_116_C3_Erythropodium C3 KF572289 Erythropodium Erythropodium caribaeorum Caribbean Belize Carrie Bow Deep
+Be02_118_Lebrunia C1 KF572164 Lebrunia Lebrunia danae Caribbean Belize Carrie Bow Deep
+BE02_135_Bartholomea_C1 C1 KF572193 Bartholomea Bartholomea annulata Caribbean Belize Carrie Bow Shallow
+Be02_139_Bartholomea C1 KF572163 Bartholomea Bartholomea annulata Caribbean Belize Carrie Bow Shallow
+Be02_170_Stephanocoenia_C3 C3 KF572344 Stephanocoenia Stephanocoenia intercepta Caribbean Belize Carrie Bow Deep
+Be02_171_Stephanocoenia_C3 C3 KF572345 Stephanocoenia Stephanocoenia intercepta Caribbean Belize Carrie Bow Deep
+Be02_178_Ricordia_C3 C3 KF572286 Ricordia Ricordia florida Caribbean Belize Carrie Bow Deep
+Be02_185_Protopalythoa C1 KF572155 Protopalythoa Protopalythoa grandis Caribbean Belize Carrie Bow Shallow
+Be02_187_C3_Erythropodium C3 KF572290 Erythropodium Erythropodium caribaeorum Caribbean Belize Carrie Bow Shallow
+Be02_192_Mreesi_C3c C3c KF572299 Mycetophyllia Mycetophyllia reesi Caribbean Belize Carrie Bow Deep
+Be02_193_Mreesi_C3c C3c KF572300 Mycetophyllia Mycetophyllia reesi Caribbean Belize Carrie Bow Deep
+Be02_25_Agaricia_C3a C3a KF572402 Agaricia Agaricia tenuifolia Caribbean Belize Carrie Bow Shallow
+Be02_26_Agaricia_C3a C3a KF572400 Agaricia Agaricia tenuifolia Caribbean Belize Carrie Bow Shallow
+Be02_29_Palythoa C1 KF572166 Palythoa Palythoa caribbeorum Caribbean Belize Carrie Bow Shallow
+Be02_30_Lebrunia C1 KF572165 Lebrunia Lebrunia danae Caribbean Belize Carrie Bow Shallow
+Be02_36_Stephanocoenia_C3 C3 KF572346 Stephanocoenia Stephanocoenia intercepta Caribbean Belize Carrie Bow Deep
+Be02_51_Leptoseris_C3 C3 KF572406 Leptoseris Leptoseris cucullata Caribbean Belize Carrie Bow Intermediate
+Be02_61_Agaricia_C3a C3a KF572401 Agaricia Agaricia agaricites Caribbean Belize Carrie Bow Intermediate
+Be02_74_Agaricia_C3a C3a KF572403 Agaricia Agaricia tenuifolia Caribbean Belize Carrie Bow Intermediate
+Be02_81_Agaricia_C3 C3 KF572404 Agaricia Agaricia agaricites Caribbean Belize Carrie Bow Intermediate
+Be02_90_Palythoa_C1 C1 KF572180 Palythoa Palythoa caribbeorum Caribbean Belize Carrie Bow Intermediate
+Be02_91_Agaricia_C3 C3 KF572342 Agaricia Agaricia agaricites Caribbean Belize Carrie Bow Deep
+Be02_97_Agaricia_C3 C3 KF572343 Agaricia Agaricia agaricites Caribbean Belize Carrie Bow Deep
+Be02_98_Porites_C1a_j C1aj KF572187 Porites Porites astreoides Caribbean Belize Carrie Bow Deep
+Be02_99_Stephanocoenia_C3 C3 KF572347 Stephanocoenia Stephanocoenia intersepta Caribbean Belize Carrie Bow Deep
+Be03_21_Stephanocoenia_C16 C16 KF572350 Stephanocoenia Stephanocoenia intersepta Caribbean Belize Carrie Bow Intermediate
+Be03_22_Stephanocoenia_C16 C16 KF572351 Stephanocoenia Stephanocoenia intersepta Caribbean Belize Carrie Bow Intermediate
+Be03_25_Stephanocoenia_C16 C16 KF572352 Stephanocoenia Stephanocoenia intersepta Caribbean Belize Carrie Bow Intermediate
+Belize2_483_M_faveolata_C7 C7 KF572270 Orbicella Orbicella faveolata Caribbean Belize Carrie Bow Deep
+Belize2_487M_faveolata_C7 C7 KF572271 Orbicella Orbicella faveolata Caribbean Belize Carrie Bow Deep
+Belize3_224_M_faveolata_C7 C7 KF572269 Orbicella Orbicella faveolata Caribbean Belize Carrie Bow Deep
+Belize3_303M_faveolata_C7 C7 KF572247 Orbicella Orbicella faveolata Caribbean Belize Carrie Bow Deep
+CB13_02_Belize_Siderastrea_C3 C3 KF572316 Siderastrea Siderastrea siderea Caribbean Belize Carrie Bow Intermediate
+CB14_02_Belize_Siderastrea_C3 C3 KF572313 Siderastrea Siderastrea siderea Caribbean Belize Carrie Bow Intermediate
+CB32_02_Belize_Siderastrea_C3 C3 KF572314 Siderastrea Siderastrea siderea Caribbean Belize Carrie Bow Intermediate
+CB33_02_Belize_Siderastrea_C3 C3 KF572315 Siderastrea Siderastrea siderea Caribbean Belize Carrie Bow Intermediate
+Chagos_Isopora21_C40 C40 KF572370 Isopora Isopora palifera Indian Ocean Chagos Archipelago Shallow
+Culture_113 C1 KF572161 N.A. N.A. N.A. N.A. N.A. N.A.
+Culture_152 C1 KF572162 N.A. N.A. N.A. N.A. N.A. N.A.
+Cur09_106_Agaricea_C C3 KF572397 Agaricia Agaricia tenuifolia Caribbean Curacao Slangenbaai Intermediate
+Cur09_107A_Siderastrea_C3 C3 KF572320 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_109_Agaricea_C C3 KF572395 Agaricia Agaricia tenuifolia Caribbean Curacao Slangenbaai Intermediate
+Cur09_111_Agaricea_C C3 KF572396 Agaricia Agaricia tenuifolia Caribbean Curacao Slangenbaai Intermediate
+Cur09_114_Siderastrea_C3 C3 KF572322 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_23A_Mycetophyllia C3 KF572423 Mycetophyllia Mycetophyllia sp. Caribbean Curacao Slangenbaai Deep
+Cur09_25_Scolymia C3 KF572298 Scolymia Scolymia cubensis Caribbean Curacao Slangenbaai Deep
+Cur09_26_Agaricia C3 KF572409 Agaricia Agaricia graheami Caribbean Curacao Slangenbaai Deep
+Cur09_27A_Siderastrea_C3 C3 KF572323 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_27C_Siderastrea_C3 C3 KF572324 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_28_Agaricia C3 KF572408 Agaricia Agaricia graheami Caribbean Curacao Slangenbaai Deep
+Cur09_31A_Siderastrea_C3 C3 KF572325 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_31B_Siderastrea_C3 C3 KF572326 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_31C_Siderastrea_C3 C3 KF572327 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_32_Mycetophyllia C3 KF572424 Mycetophyllia Mycetophyllia sp. Caribbean Curacao Slangenbaai Deep
+Cur09_34A_Mycetophyllia_C3 C3 KF572354 Mycetophyllia Mycetophyllia sp. Caribbean Curacao Slangenbaai Deep
+Cur09_40C_Mycetophyllia_C3 C3 KF572355 Mycetophyllia Mycetophyllia sp. Caribbean Curacao Slangenbaai Deep
+Cur09_45A_Siderastrea_C3 C3 KF572328 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_45B_Siderastrea_C3 C3 KF572329 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_45C_Siderastrea_C3 C3 KF572330 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_47B_Siderastrea_C3 C3 KF572321 Siderastrea Siderastrea siderea Caribbean Curacao Slangenbaai Intermediate
+Cur09_93_Agaricia_C3 C3 KF572398 Agaricia Agaricia tenuifolia Caribbean Curacao Slangenbaai Intermediate
+Cur11_20_Montastraea C7a KF572242 Orbicella Orbicella faveaolata Caribbean Curacao Intermediate
+Cur11_22_Montastraea C7a KF572243 Orbicella Orbicella faveaolata Caribbean Curacao Intermediate
+Cur11_23_Montastraea C7a KF572246 Orbicella Orbicella faveaolata Caribbean Curacao Intermediate
+Cur11_25_Montastraea C7a KF572241 Orbicella Orbicella faveaolata Caribbean Curacao Intermediate
+Cur11_27a_Montastraea C7a KF572244 Orbicella Orbicella faveaolata Caribbean Curacao Intermediate
+Cur11_27b_Montastraea C7a KF572245 Orbicella Orbicella faveaolata Caribbean Curacao Intermediate
+Cur11_44_Montastraea C7a KF572233 Orbicella Orbicella faveaolata Caribbean Curacao Intermediate
+Cur11_46_Montastraea C7a KF572234 Orbicella Orbicella faveaolata Caribbean Curacao Intermediate
+Cur11_47_Montastraea C7a KF572232 Orbicella Orbicella faveaolata Caribbean Curacao Intermediate
+CVX09_01_Palythoa_C1 C1 KF572184 Palythoa Palythoa caribaeorum East Atlantic Cape Verde Intermediate
+F1362_AG_Mfranksi2_C3 C3 KF572274 Orbicella Orbicella franksi Caribbean Florida Keys Alligator Reef Deep
+F1363_AG_M_franksi_C3 B1, C3 KF572276 Orbicella Orbicella franksi Caribbean Florida Keys Alligator Reef Deep
+F1377_AG_Mfranksi2_C3 C3 KF572275 Orbicella Orbicella franksi Caribbean Florida Keys Alligator Reef Deep
+F1378_AG_Mfranksi3_C3 C3 KF572272 Orbicella Orbicella franksi Caribbean Florida Keys Alligator Reef Deep
+F1379_AG_Mfranksi4_C3 C3 KF572273 Orbicella Orbicella franksi Caribbean Florida Keys Alligator Reef Deep
+F1380_AG_M_franksi_C3 C3 KF572277 Orbicella Orbicella franksi Caribbean Florida Keys Alligator Reef Deep
+FGB_70_Siderastrea C1 KF572160 Siderastrea Siderastrea siderea Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_17_Mussa_C3 C3 KF572281 Mussa Mussa angulosa Caribbean Flower Garden Banks West Bank-Bouy Deep
+FGB05_18_Mussa_C3 C3 KF572280 Mussa Mussa angulosa Caribbean Flower Garden Banks West Bank-Bouy Deep
+FGB05_30_C3_Leptoseris_C3 C3 KF572335 Leptoseris Leptoseris cucullata Caribbean Flower Garden Banks West Bank-Bouy Deep
+FGB05_31_C3_Leptoseris_C3 C3 KF572334 Leptoseris Leptoseris cucullata Caribbean Flower Garden Banks West Bank-Bouy Deep
+FGB05_32_C3_Leptoseris_C3 C3 KF572333 Leptoseris Leptoseris cucullata Caribbean Flower Garden Banks West Bank-Bouy Deep
+FGB05_34_Siderastrea C1 KF572157 Siderastrea Siderastrea siderea Caribbean Flower Garden Banks West Bank-Bouy Deep
+FGB05_35_Agaricia_C3s C3s KF572384 Agaricia Agaricia agaricites Caribbean Flower Garden Banks West Bank-Bouy Deep
+FGB05_39_Stephanocoenia_C87 C87 KF572416 Stephanocoenia Stephanocoenia intersepta Caribbean Flower Garden Banks West Bank-Bouy Deep
+FGB05_40_Stephanocoenia_C87 C87 KF572417 Stephanocoenia Stephanocoenia intersepta Caribbean Flower Garden Banks West Bank-Bouy Deep
+FGB05_53_Agaricia_C3s C3s KF572383 Agaricia Agaricia agaricites Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_54_Agaricia_C3s C3s KF572382 Agaricia Agaricia agaricites Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_55_Agaricia_C3s C3s KF572381 Agaricia Agaricia agaricites Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_64a_Mussa_C3 C3 KF572282 Mussa Mussa angulosa Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_65_Mussa_C3 C3 KF572279 Mussa Mussa angulosa Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_66_Mussa_C3 C3 KF572278 Mussa Mussa angulosa Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_67_Scolemia_C3 C3 KF572297 Scolemia Scolemia cubensis Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_69_Siderastrea C1 KF572158 Siderastrea Sideratrea siderea Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_76_Scolemia_C3 C3 KF572296 Scolemia Scolemia cubensis Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_78_Stephanocoenia_C87 C87 KF572418 Stephanocoenia Stephanocoenia intersepta Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_81_Agaricia_C3s C3s KF572380 Agaricia Agaricia agaricites Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_77_Stephanocoenia_C87 C87 KF572415 Stephanocoenia Stephanocoenia intersepta Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_89_Siderastrea C1 KF572156 Siderastrea Siderastrea siderea Caribbean Flower Garden Banks East Bank-Bouy Deep
+FGB05_90_Acropora C1 KF572159 Acropora Acropora palmata Caribbean Flower Garden Banks Deep
+FL01_31_C3_Erythropodium_C3 C3 KF572291 Erythropodium Erythropodium caribaeorum Caribbean Florida Keys Key Largo Intermediate
+FL01_35_Palythoa C1 KF572178 Palythoa Palythoa caribaeorum Caribbean Florida Keys Key Largo Shallow
+FL01_6_Agaricia_C3a C3a KF572399 Agaricia Agaricia agaricites Caribbean Florida Keys Key Largo Shallow
+FL01_8_Agaricia_C3b C3b KF572389 Agaricia Agaricia humilis Caribbean Florida Keys Key Largo Shallow
+FL02_63_Palythoa_C1 C1 KF572181 Palythoa Palythoa caribaeorum Caribbean Florida Keys Alligator Reef Deep
+FL02_81_Lebrunia C1 KF572168 Lebrunia Lebrunia danae Caribbean Florida Keys Admiral Reef Shallow
+FLKeys_6298_Acorpora1 C1 KF572153 Acropora Acropora cervicornis Caribbean Florida Keys Shallow
+FLKeys_6302_Acropora2 C1 KF572154 Acropora Acropora cervicornis Caribbean Florida Keys Shallow
+Haw02_113_C27 C27 JQ043668 Pavona Pavona duerdeni Central Pacific Oahu Kaneohe Bay Deep
+Haw02_18b_Montipora_31 C31 JQ043612 Montipora Montipora capitata Central Pacific Oahu Kaneohe Bay Shallow
+Haw02_23_C27 C27 JQ043667 Pavona Pavona varians Central Pacific Oahu North shore Deep
+Haw02_41_C27 C27 JQ043673 Pavona Pavona duerdeni Central Pacific Oahu North shore Deep
+Haw02_43_C27 C27 JQ043672 Pavona Pavona duerdeni Central Pacific Oahu North shore Deep
+Haw02_45b_Montipora_31 C31 KF572371 Montipora Montipora capitata Central Pacific Oahu North shore Deep
+Haw02_51_Fungia_C1bf C1bf KF572218 Fungia Fungia scutaria Central Pacific Oahu North shore Deep
+Haw02_5b_Montipora_C31 C31 JQ043613 Montipora Montipora capitata Central Pacific Oahu Kaneohe Bay Shallow
+Haw02_6_Fungia_C1bf C1bf KF572219 Fungia Fungia scutaria Central Pacific Oahu Kaneohe Bay, Shallow
+Haw02_63_Psammocora_C1bf C1bf KF572220 Psammocora Psammocora haimeana Central Pacific Oahu Kaneohe Bay Shallow
+Haw02_7_Fungia_C1bf C1bf KF572221 Fungia Fungia scutaria Central Pacific Oahu Kaneohe Bay, Shallow
+Haw02_73_C27 C27 JQ043671 Pavona Pavona varians Central Pacific Oahu Kaneohe Bay, Shallow
+Haw02_86_Cyphastrea_C1bf C1bf KF572217 Cyphastrea Cyphastrea ocellina Central Pacific Oahu Kaneohe Bay, Shallow
+Haw02_95_C27 C27 JQ043674 Pavona Pavona varians Central Pacific Oahu Kaneohe Bay, Shallow
+JPB08_08_Agaricea_C3b C3b KF572394 Agaricia Agaricia agaricites Northeastern Brazil Paraíba, João Pessoa Picãozinho Shallow
+JPB08_17_Siderastrea_C3 C3 KF572376 Siderastrea Siderastrea stellata Northeastern Brazil Paraíba, João Pessoa Picãozinho Shallow
+JPB08_19_Agaricea_C3b C3b KF572390 Agaricia Agaricia agaricites Northeastern Brazil Paraíba, João Pessoa Picãozinho Shallow
+JPB08_24_Siderastrea_C3 C3 KF572375 Siderastrea Siderastrea stellata Northeastern Brazil Paraíba, João Pessoa Picãozinho Shallow
+JPB08_31_Agaricea_C3b C3b KF572391 Agaricia Agaricia agaricites Northeastern Brazil Paraíba, João Pessoa Picãozinho Shallow
+JPB08_34_Protopalythoa C1 KF572170 Protopalythoa Protopalythoa variabilis Northeastern Brazil Paraíba, João Pessoa Picãozinho Shallow
+JPB08_35_Agaricea_C3b C3b KF572393 Agaricia Agaricia agaricites Northeastern Brazil Paraíba, João Pessoa Picãozinho Shallow
+JPB08_39_Protopalythoa_C1 C1 KF572177 Protopalythoa Protopalythoa variabilis Northeastern Brazil Paraíba, João Pessoa Cabo Branco Shallow
+JPB08_42_Palythoa C1 KF572171 Palythoa Palythoa caribeaorum Northeastern Brazil Paraíba, João Pessoa Cabo Branco Shallow
+JPB08_47_Protopalythoa_C1 C1 KF572176 Protopalythoa Protopalythoa variabilis Northeastern Brazil Paraíba, João Pessoa Cabo Branco Shallow
+JPB08_48_Protopalythoa_C1 C1 KF572175 Protopalythoa Protopalythoa variabilis Northeastern Brazil Paraíba, João Pessoa Cabo Branco Shallow
+JPB08_52_Agaricea_C3b C3b KF572392 Agaricia Agaricia agaricites Northeastern Brazil Paraíba, João Pessoa Cabo Branco Shallow
+JPB08_55_Porites_astreoides C1 KF572169 Porites Porites astreoides Northeastern Brazil Paraíba, João Pessoa Cabo Branco Shallow
+JPB08_6_Siderastrea_C3 C3 KF572377 Siderastrea Siderastrea stellata Northeastern Brazil Paraíba, João Pessoa Picãozinho Shallow
+JPB08_61_Siderastrea_C1 C1 KF572192 Siderastrea Siderastrea stellata Northeastern Brazil Baia da Traicao Shallow
+JPB08_63_Protopalythoa_C1 C1 KF572174 Protopalythoa Protopalythoa variabilis Northeastern Brazil Baia da Traicao Shallow
+JPB08_75_Isaurus_C1 C1 KF572198 Isaurus Isaurus sp. Southwest Brazil Praia do Forte Shallow
+JPB08_76_Siderastrea_C1 C1 KF572200 Siderastrea Siderastrea stellata Southwest Brazil Praia do Forte Shallow
+JPB08_77_Siderastrea_C1 C1 KF572201 Siderastrea Siderastrea stellata Southwest Brazil Praia do Forte Shallow
+JPB08_79_Siderastrea_C1 C1 KF572202 Siderastrea Siderastrea stellata Southwest Brazil Praia do Forte Shallow
+JPB08_82_Zoanthus_C1 C1 KF572196 Zoanthus Zoanthus sociatus Southwest Brazil Praia do Forte Shallow
+JPB08_84_Zoanthus_C1 C1 KF572191 Zoanthus Zoanthus sociatus Southwest Brazil Praia do Forte Shallow
+JPB08_92_Siderastrea_C1 C1 KF572197 Siderastrea Siderastrea stellata Southwest Brazil Lauro de Freitas Shallow
+LB5_mexico_Montastraea_C7 C7 KF572249 Orbicella Orbicella faveolata Caribbean Mexico Puerto Morelos Shallow
+Montastraea_Cur11_31 C7 KF572261 Orbicella Orbicella faveolata Caribbean Curacao Playa Kalki Intermediate
+Montastraea_Cur11_66 C7 KF572250 Orbicella Orbicella annularis Caribbean Curacao Playa Largu Intermediate
+Montastraea_Cur11_67 C7 KF572251 Orbicella Orbicella franksi Caribbean Curacao Playa Largu Intermediate
+Montastraea_Cur11_68 C7 KF572252 Orbicella Orbicella franksi Caribbean Curacao Playa Largu Intermediate
+Montastraea_Cur11_72 C7 KF572253 Orbicella Orbicella franksi Caribbean Curacao Playa Largu Intermediate
+Montastraea_Cur11_73 C7 KF572262 Orbicella Orbicella faveolata Caribbean Curacao Playa Largu Intermediate
+Montastraea_Cur11_74 C7 KF572263 Orbicella Orbicella faveolata Caribbean Curacao Playa Largu Intermediate
+Montastraea_Cur11_75 C7 KF572264 Orbicella Orbicella faveolata Caribbean Curacao Playa Largu Intermediate
+Montastraea_Cur11_80 C7 KF572265 Orbicella Orbicella faveolata Caribbean Curacao Playa Largu Intermediate
+Montastraea_Cur11_81 C7 KF572266 Orbicella Orbicella faveolata Caribbean Curacao Playa Largu Intermediate
+Montastraea_Cur11_84 C7 KF572267 Orbicella Orbicella faveolata Caribbean Curacao Playa Largu Intermediate
+PM99_20_Isophyllastrea_C3 C3 KF572284 Isophyllastrea Isophyllastrea rigida Caribbean Puerto Morelos Shallow
+PM99_22_Leptoseris_C3 C3 KF572407 Leptoseris Leptoseris cucullata Caribbean Puerto Morelos Petem Deep
+PM99_29_Mycetophyllia_C3 C3 KF572419 Mycetophyllia Mycetophyllia lamarckiana Caribbean Puerto Morelos Petem Deep
+PM99_30_Mycetophyllia_C3 C3 KF572420 Mycetophyllia Mycetophyllia lamarckiana Caribbean Puerto Morelos Petem Deep
+PM99_31_Mycetophyllia_C3 C3 KF572421 Mycetophyllia Mycetophyllia sp. Caribbean Puerto Morelos Petem Deep
+PM99_32_Mycetophyllia_C3 C3 KF572353 Mycetophyllia Mycetophyllia sp. Caribbean Puerto Morelos Petem Deep
+PM99_33_Mycetophyllia_C3 C3 KF572422 Mycetophyllia Mycetophyllia danana Caribbean Puerto Morelos Petem Deep
+PM99_35_Porites_C1a_j C1aj KF572185 Porites Porites astreoides Caribbean Puerto Morelos Petem Deep
+PM99_36_Porites_C1a_j C1aj KF572186 Porites Porites astreoides Caribbean Puerto Morelos Petem Deep
+PM99_72_Discosoma_C1 C1 KF572199 Discosoma Discosoma carlgreni Caribbean Puerto Morelos Bocana Shallow
+PM99_73_Discosoma C1 KF572167 Discosoma Discosoma sanctithomae Caribbean Puerto Morelos Bocana Shallow
+PM99_74_C3_Ricordia_C3 C3 KF572287 Ricordea Ricordea florida Caribbean Puerto Morelos Petem Deep
+RB38_Palythoa_C1 C1 KF572183 Palythoa Palythoa caribaeorum Caribbean Barbados Reef Balls Deep
+SPA45_Montipora_C31 C31 JQ043602 Montipora Montipora sp. Indo-Pacific Aquarium trade N.A. N.A.
+SPA59_SW2_Montipora_C31c C31c JQ043601 Montipora Montipora capitata Indo-Pacific Aquarium trade N.A. N.A.
+STX04_15_Siderastrea_C3 C3 KF572308 Siderastrea Siderastrea siderea Caribbean St. Croix leeward side Shallow
+STX04_31_Montastraea_C7a C7a KF572228 Orbicella Orbicella annularis Caribbean St. Croix leeward side Deep
+STX04_32_Montastraea_C7a C7a KF572229 Orbicella Orbicella franksi Caribbean St. Croix leeward side Deep
+STX04_34_Montastraea_C7a C7a KF572230 Orbicella Orbicella faveolata Caribbean St. Croix leeward side Deep
+STX04_35_Montastraea_C7a C7a KF572231 Orbicella Orbicella faveolata Caribbean St. Croix leeward side Deep
+STX04_36_Stephanocoenia C16a KF572348 Stephanocoenia Stephanocoenia intersepta Caribbean St. Croix leeward side Deep
+STX04_37_Stephanocoenia C16a KF572349 Stephanocoenia Stephanocoenia intersepta Caribbean St. Croix leeward side Deep
+STX04_54a_Siderastrea_C3 C3 KF572309 Siderastrea Siderastrea siderea Caribbean St. Croix leeward side Deep
+STX04_55a_Siderastrea_C3 C3 KF572310 Siderastrea Siderastrea siderea Caribbean St. Croix leeward side Deep
+STX04_58_Agaricia_C3 C3 KF572411 Agaricia Agaricia agaricities Caribbean St. Croix leeward side Deep
+STX04_59_Agaricia_C3 C3 KF572412 Agaricia Agaricia agaricities Caribbean St. Croix leeward side Deep
+STX04_61_Agaricia_C3 C3 KF572410 Agaricia Agaricia agaricities Caribbean St. Croix leeward side Deep
+SW37_Pectinia_C40 C40 KF572369 Pectinia Pectinia sp. Indo-Pacific Aquarium trade N.A. N.A.
+WA10_Cyphastrea_C40 C40 KF572364 Cyphastrea Cyphastrea chalcidicum Western Australia Ningaloo Reef Intermediate
+WA112_Hydnophora_C40 C40 KF572366 Hydnophora Hydnophora rigida Western Australia Ningaloo Reef Intermediate
+WA29_Echinophora_C40 C40 KF572367 Echinopora Echinopora lamellosa Western Australia Ningaloo Reef Intermediate
+WA908_Acropora_C40 C40 KF572362 Acropora Acropora latistella Western Australia Dampier Intermediate
+WA93_Hydnophora_C40 C40 KF572368 Hydnophora Hydnophora rigida Western Australia Ningaloo Reef Intermediate
+WA99_Cyphastrea_C40 C40 KF572365 Cyphastrea Cyphastrea chalcidicum Western Australia Ningaloo Reef Intermediate
+YBD3_Montastraea_C7 C7 KF572259 Orbicella Orbicella faveolata Caribbean Panama San Blas Intermediate
+YBD4_Montastraea_C7 C7 KF572260 Orbicella Orbicella faveolata Caribbean Panama San Blas Intermediate
+YBD59_Montastraea_C7 C7 KF572258 Orbicella Orbicella faveolata Caribbean Panama San Blas Intermediate
+98_78_Montastraea_C7 C7 KF572255 Orbicella Orbicella faveolata Caribbean Panama San Blas Intermediate
+98_79_Montastraea_C7 C7 KF572256 Orbicella Orbicella faveolata Caribbean Panama San Blas Intermediate
+98_80_Montastraea_C7 C7 KF572257 Orbicella Orbicella faveolata Caribbean Panama San Blas Intermediate
+98_83_Montastraea_C7c C7c KF572236 Orbicella Orbicella faveolata Caribbean Panama San Blas Intermediate
+98_84_Montastraea_C7c C7c KF572235 Orbicella Orbicella faveolata Caribbean Panama San Blas Intermediate
+Zam03_10M_28_Alveopora_C27 C27 JQ043670 Pachyseris Pachyseris speciosa West Pacific Ryukyus Isls. Zamami Island Intermediate
+Zam03_10M_33_Alveopora_C27 C27 JQ043669 Alveopora Alveopora sp. West Pacific Ryukyus Isls. Zamami Island Intermediate
+Zam03_10m_68_Montipora_C31 C31 JQ043599 Montipora Montipora sp. West Pacific Ryukyus Isls. Zamami Island Intermediate
+Zam03_10m_87_Montipora_C31 C31 JQ043604 Montipora Montipora venosa West Pacific Ryukyus Isls. Zamami Island Intermediate
+Zam03_3m_87_Montipora_C31 C31 JQ043603 Montipora Montipora sp. West Pacific Ryukyus Isls. Zamami Island Shallow
+Zam03_3m_92_Montipora_C30 C30 JQ043605 Montipora Montipora efflorescens West Pacific Ryukyus Isls. Zamami Island Shallow
+Zam03_3m_95_Montipora_C31 C31 JQ043600 Montipora Montipora capitata West Pacific Ryukyus Isls. Zamami Island Shallow
+Zam03_3m_25_Astreopora_C1 C1 KF572206 Astreopora Astreopora myriophthalma West Pacific Ryukyus Isls. Zamami Island Shallow
+Zam03_41_Fungia_C27 C27 JQ043676 Fungia Fungia sp. West Pacific Ryukyus Isls. Zamami Island Shallow
