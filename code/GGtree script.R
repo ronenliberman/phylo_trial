@@ -1,12 +1,17 @@
 if (!require("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
 
+install.packages("tidytree")
+library(treeio)
+library(ape)
 library(DESeq2)
 library(ggtree)
 library(tidyverse)
+library(tidytree)
 tidyverse_update()
 
-tree <- read.tree("all.psba.no27.wc3gulf.aligned.fasta.clean_names.contree")
+setwd("~/R/another_trial/phylo_trial/raw_data")
+tree <- read.tree("Bens GIT/liberman_2022-main/all.psba.no27.wc3gulf.aligned.fasta.clean_names.contree")
 
 View(tree)
 
@@ -15,10 +20,19 @@ x
 
 write.csv(file="tree_dat", x)
 
-# Visualise the nodes for annotation
-p_nodes = ggtree(tree, layout="circular") + geom_text(aes(label=node), hjust=-.3, size=1)
-p_nodes
+d <- read.csv("tree_dat_edited.csv")
+head(d)
 
+y <- full_join(x, d, by =c("parent", "node" ))
+View(y)
+
+
+tree_extra <- as.treedata(y)
+tree_extra
+# Visualise the nodes for annotation
+p_nodes = ggtree(tree_extra, layout="circular") + geom_text(aes(label=node), hjust=-.3, size=1)
+p_nodes
+rm(p_nodes)
 # node 137 is C301
 # 715 is C40
 
